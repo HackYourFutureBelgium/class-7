@@ -6,8 +6,8 @@ This repository is yours to keep track of what you've covered so far, to get to 
 
 | Class 7 Pages | How to HYF  |
 | --- | ---  |
-|  [Shared Notes](./shared-notes) |  [Homework Submission](https://github.com/hackyourfuturebelgium/homework-submission) |
-| [Class Overview](https://hackyourfuture.be/class-7) |  [Curriculum Overview](https://curriculum.hackyourfuture.be) |
+|  [Class Overview](https://hackyourfuture.be/class-7)  |  [Homework Submission](https://github.com/hackyourfuturebelgium/homework-submission) |
+| [Shared Notes](./shared-notes) |  [Curriculum Overview](https://curriculum.hackyourfuture.be) |
 | [Class Issues](https://github.com/hackyourfuturebelgium/class-7/issues) | [Student Handbook](https://github.com/HackYourFutureBelgium/student-handbook) |
 | [Homework Boards](https://github.com/hackyourfuturebelgium/class-7/projects) | [Study Links](https://study.hackyourfuture.be) |
 
