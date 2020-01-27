@@ -22,5 +22,12 @@
       "working-with-code",
       "incremental-development"
     ]
+  },
+  {
+    "name": "Luis",
+    "userName": "inglkruiz",
+    "modules": [
+      "separation-of-concerns"  
+    ]
   }
 ]
