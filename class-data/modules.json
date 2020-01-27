@@ -24,7 +24,74 @@
     "name": "incremental-development",
     "status": "in progress",
     "board": 2,
-    "weeks": 3
+    "weeks": 3,
+    "projects": [
+      {
+        "name": "acme-web-design",
+        "live": true,
+        "endpoints": [
+          "development-strategy.md"
+        ]
+      },
+      {
+        "name": "app-theme",
+        "live": true,
+        "endpoints": [
+          "development-strategy.md"
+        ]
+      },
+      {
+        "name": "duck-duck-clone",
+        "live": true,
+        "endpoints": [
+          "development-strategy.md"
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "name": "FCC: Responsive Web Design Principles (4/4)",
+        "live": "https://freecodecamp.org/<user-name>",
+        "source": false
+      },
+      {
+        "name": "FCC: Applied Accessibility (22/22)",
+        "live": "https://freecodecamp.org/<user-name>",
+        "source": false
+      },
+      {
+        "name": "HTML-CSS-Practice-Problems",
+        "live": true,
+        "endpoints": [
+          "level-1",
+          "level-2",
+          "level-3"
+        ]
+      },
+      {
+        "name": "css-exercises",
+        "live": true,
+        "endpoints": [
+          "exercise-1",
+          "exercise-2",
+          "exercise-3",
+          "exercise-4",
+          "exercise-5",
+          "exercise-6",
+          "exercise-7",
+          "exercise-8"
+        ]
+      },
+      {
+        "name": "html-css-git-exercises",
+        "live": true,
+        "endpoints": [
+          "week-1",
+          "week-2",
+          "week-3"
+        ]
+      }
+    ]
   },
   {
     "number": 2,
