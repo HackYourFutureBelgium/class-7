@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title> My Bio </title>
+  <link rel="stylesheet" media="screen" href="style.css">
+</head>
+<body>
+ <h1>Welcome to Landry's Bio</h1>
+ <img src="![thumbnail](https://user-images.githubusercontent.com/59532059/72173811-a60c5500-33d8-11ea-9860-5e0e21fd814d.jpeg)
+" alt="MyBioImage">
+ <h2>Introduction</h2>
+ <p>Hello and Welcome to my bio page. <br> My name is Landry but my firends use to call me Wazza.
+ I am twenty six years old and I am from Rwanda but now I am living in Zaventem. I am striving just to become a junior<em> web designer</em>
+ and here I am with <strong>HYF</strong> Belgium.</p>
+
+
+</body>
+
+</html>

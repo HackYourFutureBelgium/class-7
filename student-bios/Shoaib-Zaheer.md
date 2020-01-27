@@ -39,7 +39,11 @@
 * Blender (Basic)
 * WebBuilder
 * Worldpress
-* Others
+* MS Office
+    * Ms World
+    * Ms Excel
+    * Ms PowerPoint
+    * Ms Outlook
 
 
 #### Art Exhibition
