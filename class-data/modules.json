@@ -22,7 +22,7 @@
   {
     "number": 1,
     "name": "incremental-development",
-    "status": "in progress",
+    "status": "done",
     "board": 2,
     "weeks": 3,
     "projects": [
@@ -96,7 +96,7 @@
   {
     "number": 2,
     "name": "separation-of-concerns",
-    "status": "to do",
+    "status": "in progress",
     "board": 3,
     "weeks": 3
   },
