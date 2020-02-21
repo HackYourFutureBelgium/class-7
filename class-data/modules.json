@@ -96,14 +96,116 @@
   {
     "number": 2,
     "name": "separation-of-concerns",
-    "status": "in progress",
+    "status": "done",
     "board": 3,
-    "weeks": 3
+    "weeks": 3,
+    "projects": [
+      {
+        "name": "calculator-refactor",
+        "live": true,
+        "endpoints": [
+          "development-strategy.md"
+        ],
+        "branches": [
+          "DOM",
+          "styles",
+          "listener",
+          "handler",
+          "logic"
+        ]
+      },
+      {
+        "name": "soc-week-2-project",
+        "live": true,
+        "branches": [
+          "devowel",
+          "madlib",
+          "repeater",
+          "temp-converter",
+          "pad-left"
+        ]
+      },
+      {
+        "name": "soc-week-3-project",
+        "live": true,
+        "branches": [
+          "replace-substring",
+          "choices",
+          "sort-characters",
+          "reverse-words",
+          "repeat-characters"
+        ]
+      }
+    ],
+    "exercises": [
+      {
+        "name": "FCC: Basic JavaScript",
+        "live": "https://freecodecamp.org/<user-name>",
+        "source": false
+      },
+      {
+        "name": "FCC: Debugging",
+        "live": "https://freecodecamp.org/<user-name>",
+        "source": false
+      },
+      {
+        "name": "js-exercises",
+        "live": false,
+        "endpoints": [
+          "week-1",
+          "week-1-practise",
+          "week-2",
+          "week-2-practise",
+          "week-3",
+          "week-3-practise"
+        ]
+      },
+      {
+        "name": "listeners-and-handlers",
+        "live": true,
+        "endpoints": [
+          "exercise-1",
+          "exercise-2",
+          "exercise-3"
+        ]
+      },
+      {
+        "name": "handler-refactors",
+        "live": true,
+        "endpoints": [
+          "duck-duck-search",
+          "hex-setter",
+          "sub-string",
+          "hovercraft",
+          "type-caster"
+        ]
+      },
+      {
+        "name": "using-user-input",
+        "live": true,
+        "endpoints": [
+          "1-fill-in-the-blanks",
+          "2-fix-the-bugs",
+          "3-from-spec",
+          "4-open-ended"
+        ]
+      },
+      {
+        "name": "Practice Sunday lesson plan exercises",
+        "live": "https://hackyourfuture.be/separation-of-concerns",
+        "source": false,
+        "endpoints": [
+          "week-1",
+          "week-2",
+          "week-3"
+        ]
+      }
+    ]
   },
   {
     "number": 3,
     "name": "state",
-    "status": "to do",
+    "status": "in progress",
     "board": 4,
     "weeks": 3
   },
