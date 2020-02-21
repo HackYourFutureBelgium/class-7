@@ -27,14 +27,21 @@
     "name": "Luis",
     "userName": "inglkruiz",
     "modules": [
-      "separation-of-concerns"  
+      "separation-of-concerns"
     ]
   },
   {
-    "name": 'Mateus",
+    "name": "Mateus",
     "userName": "Carniatto",
     "modules": [
       "separation-of-concerns"
+    ]
+  },
+  {
+    "name": "Jonathan",
+    "userName": "dfdeagle47",
+    "modules": [
+      "state"
     ]
   }
 ]
