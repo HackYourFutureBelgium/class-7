@@ -4,6 +4,7 @@
     "name": "working-with-code",
     "status": "done",
     "board": 1,
+    "milestone": ,
     "weeks": 1,
     "projects": [
       {
@@ -207,6 +208,7 @@
     "name": "state",
     "status": "in progress",
     "board": 4,
+    "milestone": 7,
     "weeks": 3
   },
   {
