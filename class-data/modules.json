@@ -205,7 +205,7 @@
   {
     "number": 3,
     "name": "state",
-    "status": "in progress",
+    "status": "done",
     "board": 4,
     "milestone": 7,
     "weeks": 3
@@ -213,7 +213,7 @@
   {
     "number": 4,
     "name": "encapsulation",
-    "status": "to do",
+    "status": "in progress",
     "board": 5,
     "weeks": 3
   },
