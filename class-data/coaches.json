@@ -50,5 +50,12 @@
     "modules": [
       "state"
     ]
+  },
+  {
+    "name": "Anthony",
+    "userName": "toinne",
+    "modules": [
+      "encapsulation"  
+    ]
   }
 ]
