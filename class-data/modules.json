@@ -219,35 +219,35 @@
   },
   {
     "number": 5,
-    "name": "public-apis",
+    "name": "asynchronous-programming",
     "status": "to do",
     "board": 6,
     "weeks": 3
   },
   {
     "number": 6,
-    "name": "frontend-frameworks",
-    "status": "to do",
-    "board": 7,
-    "weeks": 3
-  },
-  {
-    "number": 7,
     "name": "web-apps",
     "status": "to do",
     "board": 8,
     "weeks": 4
   },
   {
-    "number": 8,
+    "number": 7,
     "name": "data-modeling",
     "status": "to do",
     "board": 9,
     "weeks": 2
   },
   {
+    "number": 8,
+    "name": "frontend-frameworks",
+    "status": "to do",
+    "board": 7,
+    "weeks": 3
+  },
+  {
     "number": 9,
-    "name": "collaborative-development",
+    "name": "agile-development",
     "status": "to do",
     "board": 10,
     "weeks": 6
