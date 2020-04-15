@@ -213,14 +213,14 @@
   {
     "number": 4,
     "name": "encapsulation",
-    "status": "in progress",
+    "status": "done",
     "board": 5,
     "weeks": 3
   },
   {
     "number": 5,
     "name": "asynchronous-programming",
-    "status": "to do",
+    "status": "in progress",
     "board": 6,
     "weeks": 3
   },
