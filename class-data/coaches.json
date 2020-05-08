@@ -3,59 +3,92 @@
     "name": "Joel",
     "userName": "JoeCamacho",
     "modules": [
-      "working-with-code",
-      "incremental-development"
+      {
+        "repoName": "working-with-code",
+        "role": "assistant"
+      },
+      {
+        "repoName": "incremental-development",
+        "role": "assistant"
+      }
     ]
   },
   {
     "name": "Manju",
     "userName": "prabhamanju",
     "modules": [
-      "working-with-code",
-      "incremental-development"
+      {
+        "repoName": "working-with-code",
+        "role": "assistant"
+      },
+      {
+        "repoName": "incremental-development",
+        "role": "assistant"
+      }
     ]
   },
   {
     "name": "Kevin",
     "userName": "KevinTss",
     "modules": [
-      "working-with-code",
-      "incremental-development"
+      {
+        "repoName": "working-with-code",
+        "role": "lead"
+      },
+      {
+        "repoName": "incremental-development",
+        "role": "lead"
+      }
     ]
   },
   {
     "name": "Luis",
     "userName": "inglkruiz",
     "modules": [
-      "separation-of-concerns"
+      {
+        "repoName": "separation-of-concerns",
+        "role": "lead"
+      }
     ]
   },
   {
     "name": "Mateus",
     "userName": "Carniatto",
     "modules": [
-      "separation-of-concerns"
+      {
+        "repoName": "separation-of-concerns",
+        "role": "lead"
+      }
     ]
   },
   {
     "name": "Jonathan",
     "userName": "dfdeagle47",
     "modules": [
-      "state"
+      {
+        "repoName": "state",
+        "role": "lead"
+      }
     ]
   },
   {
     "name": "Olivier",
     "userName": "xurei",
     "modules": [
-      "state"
+      {
+        "repoName": "state",
+        "role": "lead"
+      }
     ]
   },
   {
     "name": "Anthony",
     "userName": "toinne",
     "modules": [
-      "encapsulation"  
+      {
+        "repoName": "encapsulation",
+        "role": "lead"
+      }
     ]
   }
 ]
