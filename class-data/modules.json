@@ -228,21 +228,21 @@
     "number": 6,
     "repoName": "web-apps",
     "status": "in progress",
-    "project": 8,
+    "project": 7,
     "weeks": 4
   },
   {
     "number": 7,
     "repoName": "data-modeling",
     "status": "to do",
-    "project": 9,
+    "project": 8,
     "weeks": 2
   },
   {
     "number": 8,
     "repoName": "frontend-frameworks",
     "status": "to do",
-    "project": 7,
+    "project": 9,
     "weeks": 3
   },
   {
