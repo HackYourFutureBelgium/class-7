@@ -207,7 +207,7 @@
     "repoName": "state",
     "status": "done",
     "project": 4,
-    "milestone": 7,
+    "milestone": 8,
     "weeks": 3
   },
   {
@@ -215,6 +215,7 @@
     "repoName": "encapsulation",
     "status": "done",
     "project": 5,
+    "milestone": 9,
     "weeks": 3
   },
   {
@@ -222,6 +223,7 @@
     "repoName": "asynchronous-programming",
     "status": "done",
     "project": 6,
+    "milestone": 9,
     "weeks": 3
   },
   {
@@ -229,6 +231,7 @@
     "repoName": "web-apps",
     "status": "in progress",
     "project": 7,
+    "milestone": 10,
     "weeks": 4
   },
   {
@@ -236,6 +239,7 @@
     "repoName": "data-modeling",
     "status": "to do",
     "project": 8,
+    "milestone": 11,
     "weeks": 2
   },
   {
@@ -243,6 +247,7 @@
     "repoName": "frontend-frameworks",
     "status": "to do",
     "project": 9,
+    "milestone": 12,
     "weeks": 3
   },
   {
@@ -250,6 +255,7 @@
     "repoName": "agile-development",
     "status": "to do",
     "project": 10,
+    "milestone": 13,
     "weeks": 6
   }
 ]
