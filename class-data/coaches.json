@@ -88,6 +88,10 @@
       {
         "repoName": "encapsulation",
         "role": "lead"
+      },
+      {
+        "repoName": "web-apps",
+        "role": "homework"
       }
     ]
   }
