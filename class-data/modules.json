@@ -47,7 +47,7 @@
   {
     "number": 6,
     "repoName": "web-apps",
-    "status": "in progress",
+    "status": "done",
     "project": 7,
     "milestone": 10,
     "weeks": 4
@@ -55,7 +55,7 @@
   {
     "number": 7,
     "repoName": "databases",
-    "status": "to do",
+    "status": "in progress",
     "project": 8,
     "milestone": 11,
     "weeks": 2
