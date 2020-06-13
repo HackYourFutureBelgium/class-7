@@ -55,7 +55,7 @@
   {
     "number": 7,
     "repoName": "databases",
-    "status": "in progress",
+    "status": "done",
     "project": 8,
     "milestone": 11,
     "weeks": 2
@@ -63,7 +63,7 @@
   {
     "number": 8,
     "repoName": "frontend-frameworks",
-    "status": "to do",
+    "status": "in progress",
     "project": 9,
     "milestone": 12,
     "weeks": 3
