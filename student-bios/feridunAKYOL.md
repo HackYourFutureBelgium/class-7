@@ -7,7 +7,7 @@
 ### Web Developer
 |    |    |
 ------|-------|
-|**Adress:** | St-Truiderstenweeg Hasselt 
+|**Adress:** | Hasselt 
 | **phone:** | 0486 05 45 27  
 | **mail:** |  <feridunakyol34@gmail.com> 
 
