@@ -53,9 +53,10 @@ Computer Skills
 
 + **HTML** :blush:
 + **CSS** :relaxed:
-+ **JS** :tired_face:
-+ **MS Office** :sunglasses:
-+ **Windows** :yum:
++ **JS** 
++ **Node JS** 
++ **Sqlite3** 
++ **React**
 
 <p>&nbsp;</p>
 
